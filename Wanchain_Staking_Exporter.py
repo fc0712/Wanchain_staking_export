@@ -67,3 +67,4 @@ while True:
     elif file_ouput != "excel" or "csv" or "both":
         print("You Should enter either excel, csv or both")
     
+print("Script is done running - You can close it now")
