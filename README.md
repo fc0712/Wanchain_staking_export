@@ -6,8 +6,8 @@ The scripts asks for two inputs: **Address** and **Number of pages of delegation
 
 # Requirement
 The only external packages that is being used in the script is: 
-Pandas
-tqdm
+1. Pandas
+2. tqdm
 
 ## Number of pages - Instructions
 You need to input the number of pages for the script to loop over. 
